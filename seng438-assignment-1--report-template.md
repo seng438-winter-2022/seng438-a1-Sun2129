@@ -2,9 +2,9 @@
 
 **Lab. Report \#1 – Introduction to Testing and Defect Tracking**
 
-| Group \#:       |   |
+| Group \#:       | 6 |
 |-----------------|---|
-| Student Names:  |   |
+| Student Names:  | Sanchit Kumar  |
 |                 |   |
 |                 |   |
 |                 |   |
@@ -32,8 +32,7 @@ learned	1](#_Toc439194682)
 
 # Introduction
 
-An introduction of your lab work, and what you knew about exploratory and manual
-functional testing before this lab
+This report contains the results of non-scripted manual testing, scripted manual testing, and regression testing completed on an ATM simulation system created by Gordon College. The defect reports presented in this report are created and documented using Backlog. With pair testing used during the exploratory testing process, the thought process of each pair of Engineers prior to the exploratory testing is presented. The findings in this stage are then compared to manual scripted testing completed on the same system. Finally, these defect reports are peer reviewed and changed based on feedback provided by. Preceding this assignment, the most any Engineers in this group knew about exploratory and manual functioning testing was what was taught during lectures. An introduction of your lab work, and what you knew about exploratory and manual functional testing before this lab.
 
 # High-level description of the exploratory testing plan
 
