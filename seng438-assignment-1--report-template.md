@@ -36,7 +36,7 @@ This report contains the results of non-scripted manual testing, scripted manual
 
 # High-level description of the exploratory testing plan
 
-Text…
+Going into the Exploratory Testing, as a group we had decided to, at the very least, test every main function present in the system. This would mean testing all options presented, all text boxes, and all inputs that a user may enter. This was escpecially important in this case because we are dealing with an ATM system. Generally, systems that are concerned with dealing with money and sensitive information like credit or debit cards need to be absolutely bug proof. There should be absolutely no way for a user to enter input that would allow for the user to gain access to an account that they do not own or perform transactions that should not be possible. As a result, we wanted to particularly test whether the ATM system would securely allow for a user to use their account and perform transactions that work correctly. This would mean that each pair would test each significant function multiple times with different and unexpected inputs. 
 
 # Comparison of exploratory and manual functional testing
 
