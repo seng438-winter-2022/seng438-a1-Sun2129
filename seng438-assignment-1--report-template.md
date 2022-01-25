@@ -5,9 +5,9 @@
 | Group \#:       | 6 |
 |-----------------|---|
 | Student Names:  | Sanchit Kumar  |
-|                 |   |
-|                 |   |
-|                 |   |
+|                 | Aninda Shome  |
+|                 | Isaiah Asaolu |
+|                 | Ibrahim Asad  |
 
 **Table of Contents**
 
@@ -32,7 +32,7 @@ learned	1](#_Toc439194682)
 
 # Introduction
 
-This report contains the results of non-scripted manual testing, scripted manual testing, and regression testing completed on an ATM simulation system created by Gordon College. The defect reports presented in this report are created and documented using Backlog. With pair testing used during the exploratory testing process, the thought process of each pair of Engineers prior to the exploratory testing is presented. The findings in this stage are then compared to manual scripted testing completed on the same system. Finally, these defect reports are peer reviewed and changed based on feedback provided by each pair. Preceding this assignment, the most any Engineers in this group knew about exploratory and manual functioning testing was what was taught during lectures. 
+This report contains the results of non-scripted manual testing, scripted manual testing, and regression testing completed on an ATM simulation system created by Gordon College. The defect reports presented in this report are created and documented using Backlog. With pair testing used during the exploratory testing process, the thought process of each pair of Engineers prior to the exploratory testing is presented. The findings in this stage are then compared to manual scripted testing completed on the same system. Finally, these defect reports are peer reviewed and changed based on feedback provided by each pair. Preceding this assignment, the most any Engineers in this group knew about exploratory and manual functioning testing was what was taught during lectures. We knew that exploratory tested involved designing tests and executing them at the same time. We also knew that it was important to explore as many different options as we could think of. In lecture, we learned that manual scripted tests are designed first and recorded. After they are designed, these tests can be executed later in time by different people so that they can see if the bugs occur. 
 
 # High-level description of the exploratory testing plan
 
@@ -46,8 +46,7 @@ Text…
     system, containing all defects recorded in the system.
 
 # Notes and discussion of the peer reviews of defect reports
-
-Text…
+First, we split into pairs (groups of 2) and then began the exploratory testing, one person in the pair did the test, then the other person would review the test and verify. After each pair was done the exploratory tests were swapped the results between the pairs and then verified and confirmed each others’ defects. One thing we found was that there was a lot of similarity between the defects each pair found. Furthermore, since we split up into pairs, we were able to cover more ground. Each pair ended up finding some smaller bugs that the other pair had not noticed, and thus our list of bugs grew, and we were able to create an extensive list of the existing bugs.  
 
 # How the pair testing was managed and team work/effort was divided 
 
