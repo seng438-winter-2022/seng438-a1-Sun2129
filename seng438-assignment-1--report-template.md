@@ -58,8 +58,9 @@ In the last step, for regression testing, each of us checked the defects we had 
 
 # Difficulties encountered, challenges overcome, and lessons learned
 
-Text…
+One difficulty that we came across while doing this lab was that our schedules were very different, so it was difficult at first to come up with a time to work that works for everyone. We were able to come to a compromise after looking through our schedules thoroughly. Another difficulty we encountered was our primary means of communication, discord, crashing, making use unable to communicate. We have learned our lesson, and now are able to contact each other through other ways so we don’t rely just on discord.
+Since this was our first time using backlog, we had some issues getting started and using it. For instance, generating issues, editing old ones, and changing versions and things took us some time to get used  to, however we were able to overcome this and now we can use backlog efficiently. Another difficulty we encountered was that it was also our first time doing this sort of testing, and so it took us longer than expected to understand how exploratory testing worked, and how to do this testing right. We were able to overcome this issue as when we were testing, we brainstormed possible things we should check, and looked at every angle we could think about. A lesson we learned from this testing, is that it allows us to explore a lot more possible defects as it gives us the freedom to check any possible bugs we might think of. 
 
 # Comments/feedback on the lab and lab document itself
 
-Text…
+After doing this lab, we feel much more confident about how exploratory and manual scripted testing work, and why they’re both performed on a system to debug it. We found both testing methods very useful because it can be applied to any system that we want to test. The lab did provide us very good practice for this testing and allowed us to explore both types of testing. We felt that the lab was a little difficult to follow, particularly with backlog as some of the instructions were conflicting. Furthermore, we felt that in the regression testing instructions, on the 5th step, it was a little confusing as to what was wanted of us. 
